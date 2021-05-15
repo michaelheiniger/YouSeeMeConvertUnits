@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">YouSeeMeConvertUnits</string>
+    <string name="kilometers_short">km</string>
+    <string name="kilometers_result"> %1$s km</string>
+    <string name="kilometers_long">kilometers</string>
+    <string name="miles">miles</string>
+    <string name="miles_result"> %1$s miles</string>
 </resources>
